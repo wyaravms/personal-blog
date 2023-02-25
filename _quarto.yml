@@ -14,11 +14,8 @@ website:
         href: https://twitter.com/wyaravms
 format:
   html:
-    theme: darkly
+    theme: flatly
     css: styles.css
 
 editor: visual
 
-comments:
-  giscus:
-    repo: wyaravms/personal-blog

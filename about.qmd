@@ -1,8 +1,10 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About me"
 about:
   template: solana
+  image: profile.jpg
+  image-width: 14em
+  image-shape: round
   links:
     - icon: twitter
       text: Twitter
@@ -15,6 +17,20 @@ about:
       href: https://github.com/wyaravms
 ---
 
-Hello, this is my personal website!
+:::{#hero-heading}
 
+Hi, my name is Wyara Silva, I’m a statistician, currently doing my PhD in Statistics at UFMG.
+
+## Education
+
+<strong> Master in Applied Mathematics and Statistics </strong> (2015-2017)
+Universidade Federal do Rio Grande do Norte (UFRN)
+
+<strong>Bachelor degree in Statistics </strong> (2010-2015)         
+Universidade Federal do Piauí (UFPI)
+
+
+:::
 ---
+
+------------------------------------------------------------------------
