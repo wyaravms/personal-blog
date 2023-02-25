@@ -5,6 +5,7 @@ website:
   title: "Wyara Silva"
   navbar:
     right:
+      - home.qmd
       - about.qmd
       - icon: github
         href: https://github.com/wyaravms
