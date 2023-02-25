@@ -6,6 +6,9 @@ about:
   image-width: 14em
   image-shape: round
   links:
+    - icon: lattes
+      text: CV Lattes
+      href: http://lattes.cnpq.br/5538303153427476
     - icon: twitter
       text: Twitter
       href: https://twitter.com/wyaravms
