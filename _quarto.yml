@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "personal-blog"
+  title: "Wyara Silva"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/wyaravms
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/wyaravms
 format:
   html:
     theme: cosmo
@@ -17,3 +17,6 @@ format:
 
 editor: visual
 
+comments:
+  giscus:
+    repo: wyaravms/personal-blog
