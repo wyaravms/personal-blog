@@ -7,8 +7,10 @@ website:
     right:
       - about.qmd
       - icon: github
+        text: GitHub
         href: https://github.com/wyaravms
       - icon: twitter
+        text: Twitter
         href: https://twitter.com/wyaravms
 format:
   html:

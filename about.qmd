@@ -15,4 +15,9 @@ about:
       href: https://github.com/wyaravms
 ---
 
+::: {#hero-heading}
+
 Hello, this is my personal website!
+
+:::
+---
