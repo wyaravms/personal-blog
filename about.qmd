@@ -2,7 +2,7 @@
 title: "About"
 image: profile.jpg
 about:
-  template: jolla
+  template: solana
   links:
     - icon: twitter
       text: Twitter
@@ -15,9 +15,6 @@ about:
       href: https://github.com/wyaravms
 ---
 
-::: {#hero-heading}
-
 Hello, this is my personal website!
 
-:::
 ---
