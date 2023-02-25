@@ -20,8 +20,6 @@ website:
       - about.qmd
       - text: Lattes
         href: http://lattes.cnpq.br/5538303153427476
-      - text: GitHub
-        href: https://github.com/wyaravms
         
 format:
   html:
