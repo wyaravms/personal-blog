@@ -1,5 +1,8 @@
 ---
 title: "About me"
+format: 
+  html:
+    page-layout: full
 about:
   template: solana
   image: profile.jpg
@@ -7,8 +10,11 @@ about:
   image-shape: round
   links:
     - icon: lattes
-      text: CV Lattes
+      text: Lattes
       href: http://lattes.cnpq.br/5538303153427476
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=2kt3OlEAAAAJ&hl=en
     - icon: twitter
       text: Twitter
       href: https://twitter.com/wyaravms
@@ -24,13 +30,14 @@ about:
 ---
 
 ::: {#hero-heading}
-Hi, my name is Wyara Silva, I'm a statistician, currently doing my PhD in Statistics at UFMG.
+Hi, my name is Wyara Silva, I'm a statistician, currently doing my PhD in Statistics at UFMG. I'm addicted to coffee and passionate about cinema.
 
 ## Education
 
-<strong> Master in Applied Mathematics and Statistics </strong> (2015-2017) Universidade Federal do Rio Grande do Norte (UFRN)
+<strong> Master in Applied Mathematics and Statistics </strong> (2017)\
+Universidade Federal do Rio Grande do Norte (UFRN)
 
-<strong>Bachelor degree in Statistics </strong> (2010-2015)\
+<strong>Bachelor degree in Statistics </strong> (2015)\
 Universidade Federal do Piauí (UFPI)
 :::
 

@@ -1,18 +1,10 @@
 ---
-title: "home"
-image: profile.jpg
+title: "Home"
 about:
   template: solana
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/wyaravms
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/wyaravms
-    - icon: github
-      text: Github
-      href: https://github.com/wyaravms
+  image: profile.jpg
+  image-width: 14em
+  image-shape: round
 ---
 
 Hello, this is my personal website!

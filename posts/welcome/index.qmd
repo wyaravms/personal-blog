@@ -1,12 +1,25 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-02-21"
-categories: [news]
+title: "Materials from Probability and Inference Courses"
+author: "Wyara"
+date: "2023-02-25"
+categories: [tests]
+linkcolor: darkblue
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Some materials from the isolated disciplines that I took last year in the master program of statistics at UFMG. (All pdf materials are in portuguese.)
 
-![](thumbnail.jpg)
+Probability:
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+[test 1](probability_prova_1.pdf)
+
+[test 2.1](probability_prova_2.pdf)
+
+[test 2.2](probability_prova_2_v2.pdf)
+
+Inference:
+
+[take home](inferencia_questao.pdf)
+
+
+![](board.jpg)
+
