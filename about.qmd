@@ -6,14 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/wyaravms
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/wyaravms
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/wyaravms
 ---
 
-About this blog
+Hello, this is my personal website!
