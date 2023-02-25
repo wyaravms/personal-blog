@@ -11,26 +11,23 @@ about:
       href: https://twitter.com/wyaravms
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/wyaravms
+      href: https://linkedin.com/in/wyaravms/
     - icon: github
       text: Github
       href: https://github.com/wyaravms
 ---
 
-:::{#hero-heading}
-
-Hi, my name is Wyara Silva, I’m a statistician, currently doing my PhD in Statistics at UFMG.
+::: {#hero-heading}
+Hi, my name is Wyara Silva, I'm a statistician, currently doing my PhD in Statistics at UFMG.
 
 ## Education
 
-<strong> Master in Applied Mathematics and Statistics </strong> (2015-2017)
-Universidade Federal do Rio Grande do Norte (UFRN)
+<strong> Master in Applied Mathematics and Statistics </strong> (2015-2017) Universidade Federal do Rio Grande do Norte (UFRN)
 
-<strong>Bachelor degree in Statistics </strong> (2010-2015)         
+<strong>Bachelor degree in Statistics </strong> (2010-2015)\
 Universidade Federal do Piauí (UFPI)
-
-
 :::
----
+
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
