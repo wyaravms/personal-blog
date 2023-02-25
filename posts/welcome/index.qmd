@@ -1,6 +1,6 @@
 ---
 title: "Materials from Probability and Inference Courses"
-author: "Wyara"
+author: "Wyara Silva"
 date: "2023-02-25"
 categories: [tests]
 linkcolor: darkblue
@@ -20,6 +20,4 @@ Inference:
 
 [take home](inferencia_questao.pdf)
 
-
 ![](board.jpg)
-

@@ -9,7 +9,10 @@ about:
   image-width: 14em
   image-shape: round
   links:
-    - icon: lattes
+    - icon: envelope
+      text: Email
+      href: mailto:wyaravms@gmail.com  
+    - icon: file
       text: Lattes
       href: http://lattes.cnpq.br/5538303153427476
     - icon: google scholar
@@ -24,7 +27,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/wyaravms
-    - icon: letterboxd
+    - icon: film
       text: Letterboxd
       href: https://letterboxd.com/wvmouras/
 ---
